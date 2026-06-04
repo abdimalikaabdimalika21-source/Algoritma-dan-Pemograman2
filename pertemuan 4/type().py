@@ -1,8 +1,0 @@
-a = float(input("Masukkan Nilai A ="))
-b = float(input("Masukkan Nilai B ="))
-print ("Hasil Penjumlahan =", a + b)
-print ("Hasil Pengurangan =", a - b)
-print ("Hasil Pembagian =", a / b)
-print ("Hasil Perkalian =", a * b)
-print ("Selamat kamu sudah pintar matematika")
-print (type(a))
