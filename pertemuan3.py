@@ -1,2 +1,0 @@
-Nama = "budi"
-print (nama)
